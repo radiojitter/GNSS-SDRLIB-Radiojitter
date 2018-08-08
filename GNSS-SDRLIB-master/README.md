@@ -1,3 +1,6 @@
+This github version of GNSS-SDRLIB is built on 64 bit windows, bladeRF support is removed due incompatible dll(32 bit) isssue 
+
+
 GNSS-SDRLIB v2.0 Beta
 ===============================================================================
 An Open Source GNSS Software Defined Radio Library
